@@ -19,3 +19,9 @@ git remote rename origin old-origin
 git remote add origin https://gitlab.com/danieluni20201/pythonuni.git
 git push -u origin --all
 git push -u origin --tags
+
+
+
+---para actualizar de otro proyecto
+git fetch -p
+git pull

@@ -25,3 +25,5 @@ git push -u origin --tags
 ---para actualizar de otro proyecto
 git fetch -p
 git pull
+
+git fetch -p & git pull

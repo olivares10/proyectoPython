@@ -26,4 +26,9 @@ git push -u origin --tags
 git fetch -p
 git pull
 
+
+git add . & git commit -m "ejercicio3" & git push -u origin master
 git fetch -p & git pull
+
+
+prueba

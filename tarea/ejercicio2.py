@@ -92,7 +92,7 @@ while n1 !='fin':
  
 if len(numeros)>0:
 
-    print(f"El mayor de los '{len(numeros)}' numeros introducidos es:{max(numeros, key=int)} ")
+    print(f"El mayor de los '{len(numeros)}' numeros introducidos es:{max(numeros)} ")
     
 else:
     print("No hay numeros")
